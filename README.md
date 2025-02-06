@@ -31,7 +31,7 @@ This project showcases an Amazon Lex chatbot integrated with AWS Lambda. The cha
 ├── README.md  # Project overview
 ├── deployment_steps.md  # Step-by-step guide
 ├── source_code/  # Lambda function scripts
-├── screenshots/  # Setup images from PDF
+├── screenshots/  # Setup images 
 ```
 
 ## Next Steps
